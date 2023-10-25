@@ -32,7 +32,7 @@ public abstract class Advent2015Day04 {
         System.out.println(Integer.valueOf(256) == Integer.valueOf(256));
         System.out.println(Integer.valueOf(250) == Integer.valueOf(250));
         System.out.println(Integer.valueOf(129) == Integer.valueOf(129));
-        System.out.println(Integer.valueOf(128) == Integer.valueOf(128));ff
+        System.out.println(Integer.valueOf(128) == Integer.valueOf(128));
         System.out.println(Integer.valueOf(127) == Integer.valueOf(127));
         System.out.println(Integer.valueOf(100) == Integer.valueOf(100));
         System.out.println(Integer.valueOf(10) == Integer.valueOf(10));
